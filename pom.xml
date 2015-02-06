@@ -33,11 +33,6 @@
         </dependency>
 
         <!--Twitter Bootstrap-->
-        <dependency>
-            <groupId>org.webjars</groupId>
-            <artifactId>jquery</artifactId>
-            <version>${jquery.version}</version>
-        </dependency>
 
         <dependency>
             <groupId>org.webjars</groupId>
