@@ -1,6 +1,7 @@
 # Compiled Code #
 *.class
 */target/**
+*target/**
 
 # Package Files #
 *.jar
