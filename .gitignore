@@ -4,6 +4,7 @@
 
 # Package Files #
 *.jar
+*.jar.*
 *.war
 *.ear
 
@@ -18,3 +19,6 @@
 
 # System Files #
 .DS_Store
+
+# Other files #
+*.lst
